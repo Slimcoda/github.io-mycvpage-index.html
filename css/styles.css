@@ -218,6 +218,7 @@ img.img-responsive.img-circle{
 		height: 140px;
 		padding-top:10px;
 		line-height: 1.6em;
+  border-radius:5px;
 	}
 	ul.projects{
 		text-decoration: none;
