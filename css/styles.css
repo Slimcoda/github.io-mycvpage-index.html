@@ -173,7 +173,7 @@ img.img-responsive.img-circle{
 	
 	#my-img{
 		position: relative;
-		background: url('../images/ myfavimg.jpeg')no-repeat;
+		background: url('../images/myfavimg.jpeg')no-repeat;
 		background-position: center;
 		height:250px;
 		width: 100%;
